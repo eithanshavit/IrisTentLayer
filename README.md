@@ -5,3 +5,4 @@ This stand features a plate that replaces the stock Iris Keyboard bottom plate b
 
 To install, use the plate's original screws to attach the new plate+stand.
 
+![render](https://github.com/eithanshavit/IrisTentLayer/render.png)
