@@ -7,4 +7,4 @@ An [Iris Rev. 4](https://keeb.io/collections/keyboard-pcbs/products/iris-keyboar
 
 * To install, use the plate's original screws to attach the new plate+stand.
 
-![render](https://github.com/eithanshavit/IrisTentLayer/render.png)
+![render](https://github.com/eithanshavit/IrisTentLayer/blob/master/render.png?raw=true)
