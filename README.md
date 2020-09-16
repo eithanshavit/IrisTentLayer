@@ -3,7 +3,7 @@ An [Iris Rev. 4](https://keeb.io/collections/keyboard-pcbs/products/iris-keyboar
 
 * This stand features a plate that replaces the stock Iris Keyboard bottom plate but that has legs to create ergonomic tenting. 
 
-* The keyboard is angled at an 11 degree roll and a 5 degree pitch. 
+* The keyboard is angled at an 10.5 degree roll and a 6 degree pitch. The included Fusion 360 model allow for easy control over these angles.
 
 * To install, use the plate's original screws to attach the new plate+stand.
 
